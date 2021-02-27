@@ -24,7 +24,7 @@ There is currently support for the following device types within Home Assistant:
 - Sensor
 - Weather
 
-You need an API key, which is free, but requires a [registration](https://home.openweathermap.org/users/sign_up).
+You need an API key, which is free, but requires a [registration](https://home.openweathermap.org/users/sign_up). API keys may take up to two hours to get activated after registration.
 
 {% include integrations/config_flow.md %}
 
